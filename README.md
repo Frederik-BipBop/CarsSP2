@@ -98,7 +98,6 @@ Luxury cars scored slightly lower (F1: 0.80) due to fewer training examples.
 
 - **Add more features** such as make and model (encoded) to the regression model
 - **Use more data** — especially more luxury car examples to improve classification
-- **Try more advanced models** such as Gradient Boosting or XGBoost for regression
 - **Hyperparameter tuning** — optimise the number of trees in Random Forest
 - **Remove outliers** more carefully to reduce noise in the training data
 ---
